@@ -1,4 +1,4 @@
-export class Perona{
+export class Persona{
    /*  nombre: string = '';
     apellido: string = ''; 
 
