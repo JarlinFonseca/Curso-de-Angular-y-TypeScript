@@ -1,10 +1,10 @@
 "use strict";
-let usuario1 = { nombreUsuario: "Juan", password: "1234", confirmarPassword: "1234" };
-console.log(usuario1);
-console.log(usuario1.nombreUsuario);
-let avion = {
+let usuario2 = { nombreUsuario: "Juan", password: "1234", confirmarPassword: "1234" };
+console.log(usuario2);
+console.log(usuario2.nombreUsuario);
+let avion1 = {
     abordarTransporte: function () {
         console.log("abordando");
     }
 };
-avion.abordarTransporte();
+avion1.abordarTransporte();
